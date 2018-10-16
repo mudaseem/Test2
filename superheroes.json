@@ -1,8 +1,8 @@
 {
-  "squadName" : "Elrond",
-  "homeTown" : "Murkel City",
+  "squadName" : "Elrond's Lattices",
+  "homeTown" : "Chicago",
   "formed" : 1993,
-  "secretBase" : "Super tower",
+  "secretBase" : "Splat-Creative",
   "active" : true,
   "members" : [
     {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name" : "Murquel",
+      "name" : "Madame Uppercut",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
